@@ -11,6 +11,7 @@ Our analytical endeavor provides insightful revelations about prevalent research
 
 ## Repository Contents
 - `scripts/`: Includes Python scripts utilized for data analysis and NLP processing.
+- `data/`: Several datasets retrieved from the website.
 - `results/`: Houses the outcome figures of our analysis.
 
 ## Key Findings
