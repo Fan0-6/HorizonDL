@@ -11,8 +11,8 @@ Our analytical endeavor provides insightful revelations about prevalent research
 
 ## Repository Contents
 - `scripts/`: Includes Python scripts utilized for data analysis and NLP processing.
-- `data/`: Several datasets retrieved from the website.
-- `results/`: Houses the outcome figures of our analysis.
+- `data/`: Datasets retrieved from the multiple databases.
+- `results/`: Contains the HTML-based outcome figures from our analysis.
 
 ## Key Findings
 - Identification of major research trends and topics within deep learning.
